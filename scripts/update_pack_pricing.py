@@ -50,7 +50,7 @@ def pricing_block(name, price, repo):
 
 This pack sells for **{d}** on Bandcamp, Looperman, Sample Focus, Splice, and other commercial sample platforms — and is **free forever** from the official channels:
 
-- [\u2b07\ufe0f Latest GitHub release](https://github.com/{OWNER}/{repo}/releases/latest) (ZIP)
+- [\u2b07\ufe0f Download the current ZIP](https://github.com/{OWNER}/{repo}/archive/refs/heads/main.zip) \u2014 full pack, always up to date\n- [\U0001f516 Releases page](https://github.com/{OWNER}/{repo}/releases) \u2014 tagged versions
 - [\U0001f310 TizWildin website]({HUB_SITE})
 - [\U0001f3db\ufe0f TizWildin Hub repo]({HUB_REPO}) — full catalog of free plugins + sample packs
 
