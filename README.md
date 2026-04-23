@@ -113,6 +113,12 @@ Soundfont software, libraries, and resources.
 - **Submission format**: PR.
 - **Applicable to**: TizWildin sample-pack repos that ship SF2/SFZ instruments (e.g., Instrudio).
 
+### [albertmeronyo/awesome-midi-sources](https://github.com/albertmeronyo/awesome-midi-sources) ★ 324
+Sites with MIDI files on the Web.
+- **Scope**: MIDI file archives, generators, and related tools.
+- **Submission format**: PR.
+- **Applicable to**: TizWildin packs that ship MIDI content (Free Dark Piano Sound Kit, Phonk Producer Toolkit).
+
 ---
 
 ## Web Audio lists
@@ -161,17 +167,69 @@ Audio over IP + AES67.
 
 ## Sample-pack directories
 
-> Research-in-progress. Most sample-pack distribution happens on non-GitHub platforms (Splice, Bandcamp, Looperman, r/WeAreTheMusicMakers). GitHub has limited curation in this space.
+> GitHub has minimal curation for sample packs. The real distribution surface is **non-GitHub platforms** below. TizWildin packs and similar free sample-pack releases should target those first.
 
-### [ad-si/awesome-soundfonts](https://github.com/ad-si/awesome-soundfonts) ★ 163
-See entry above — applicable to soundfont packs.
+### GitHub curated lists that accept sample packs
+- [**ad-si/awesome-soundfonts**](https://github.com/ad-si/awesome-soundfonts) ★ 163 — SF2/SFZ soundfonts only. PR submission.
+- [**albertmeronyo/awesome-midi-sources**](https://github.com/albertmeronyo/awesome-midi-sources) ★ 324 — MIDI files. PR submission.
 
-### Non-GitHub sample directories
-- **[freesound.org](https://freesound.org)** — collaborative CC-licensed sample database. Submission: free account + upload form. **Very high traffic** (used by DAWs for in-app browsing).
-- **[Looperman](https://www.looperman.com)** — free loops and samples. Submission: account + upload form per pack.
-- **[Sample Focus](https://samplefocus.com)** — curated free samples. Submission: account + upload.
-- **[r/WeAreTheMusicMakers — Free Sample Pack Fridays](https://www.reddit.com/r/WeAreTheMusicMakers/)** — weekly thread; comment with your pack + download link.
-- **[Splice](https://splice.com)** — commercial platform; creator application required at `splice.com/creators`.
+### Non-GitHub sample-pack directories (ordered by producer-facing reach)
+
+#### [freesound.org](https://freesound.org) — very high traffic
+- **Submission**: free account → [upload page](https://freesound.org/home/upload/). Each sample uploaded individually. Supports license tagging (CC0 / CC-BY / CC-BY-NC).
+- **Rules**: descriptive filename, accurate tags, real preview audio. Moderator review.
+- **Fit**: individual one-shots, loops, field recordings. Not ideal for packs as bundles (upload per-sample).
+- **Used by**: Logic Pro, Ableton Live (in-app browsing).
+
+#### [Looperman](https://www.looperman.com) — producer-first community
+- **Submission**: free account → [upload page](https://www.looperman.com/members/account/upload). Pack uploads accepted.
+- **Rules**: royalty-free license, original content only, BPM + key metadata required.
+- **Fit**: TizWildin loop packs (Aurora, Skyline, Chroma, Chime).
+
+#### [Sample Focus](https://samplefocus.com) — curated free samples
+- **Submission**: account → upload.
+- **Rules**: pre-screened for quality. Higher bar than Freesound/Looperman.
+
+#### [Splice](https://splice.com) — commercial platform
+- **Submission**: [creator application](https://splice.com/sounds/creator-program). Revenue share.
+- **Rules**: high production quality + original content. Curated roster.
+- **Fit**: only the most polished TizWildin packs; not a free distribution channel.
+
+#### [Bandcamp](https://bandcamp.com) — direct listener purchase / free download
+- **Submission**: artist account. Upload packs as ZIP + audio previews. Can price at $0 or "pay what you want".
+- **Rules**: no submission gatekeeping.
+- **Fit**: release each TizWildin pack as a Bandcamp release alongside GitHub.
+
+#### [r/WeAreTheMusicMakers](https://www.reddit.com/r/WeAreTheMusicMakers/) — "Feedback Friday" + "Free Sample Pack" threads
+- **Submission**: weekly self-post thread; include pack name, BPM, genre, license, download link. Comment-only for some threads.
+- **Rules**: no drive-by self-promotion, comment on others' posts too.
+
+#### [r/WeAreTheMusicMakers — "I Made A Thing" Monday](https://www.reddit.com/r/WeAreTheMusicMakers/)
+- Weekly self-promotion thread; post pack link + description.
+
+#### [r/edmproduction](https://www.reddit.com/r/edmproduction/) — weekly feedback threads
+- **Fit**: EDM-leaning TizWildin content (Skyline, Chroma, Future Bass Kit).
+
+#### [r/trapproduction](https://www.reddit.com/r/trapproduction/) / [r/phonk](https://www.reddit.com/r/phonk/)
+- Genre-specific communities. Phonk Producer Toolkit belongs here.
+
+#### [Hive Sound](https://www.hivesound.com) — editorial / curated free pack roundup
+- **Submission**: contact form / email editor.
+- **Rules**: editorial. Pitch required.
+
+#### [Audio Assault Free Packs](https://www.audioassault.com/pages/free-downloads) — some accept submissions via contact
+- **Submission**: email editor.
+
+#### [Bedroom Producers Blog — "Best Free Sample Packs of …"](https://bedroomproducersblog.com/category/free-samples/)
+- **Submission**: email editor; editorial. Highest bar, highest reach in producer press.
+
+#### [Production Music Live — free sample pack roundup](https://productionmusiclive.com/)
+- **Submission**: contact form / email.
+
+#### TizWildin-owned distribution
+- **GitHub Releases** (current): each pack repo ships ZIP assets on `releases/latest`.
+- **GitHub Pages** (optional): single landing page aggregating all packs.
+- **YouTube pack walkthroughs**: upload a preview video with download link in description; high SEO.
 
 ---
 
