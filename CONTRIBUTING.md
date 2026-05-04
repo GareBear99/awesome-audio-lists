@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for considering a contribution! This repo tracks curated audio lists, plugin directories, sample-pack directories, music-platform resources, and their submission rules. Contributions are welcome in three forms:
+Thanks for considering a contribution! This repo tracks curated audio lists, plugin directories, sample-pack directories, music-platform resources, Python scientific-audio resources, and their submission rules. Contributions are welcome in three forms:
 
 ## 1. Add a new list or platform resource
 Open a PR that adds a new list, directory, or music-platform resource entry to the appropriate section of `README.md`. Use the existing format:
@@ -31,3 +31,19 @@ Acceptable in the "Non-GitHub plugin directories", "Sample-pack directories", an
 
 ## License
 By contributing you agree your additions are released under CC0 1.0.
+
+
+## Adding Python scientific audio resources
+
+Use the Python/scientific-audio lane for resources that help with audio research, MIR, DSP, machine-learning audio, dataset handling, notebooks, realtime Python audio, plugin testing, or creator-audio automation. Add ecosystem-specific items only when they are genuinely useful to outside researchers, producers, or developers.
+
+Recommended format:
+
+```markdown
+### [owner/repo-name](https://github.com/owner/repo-name) ★ <stars>
+<One-sentence description>
+- **Scope**: Python audio science / MIR / DSP / datasets / notebooks / tooling.
+- **Submission format**: PR / Issue / web form.
+- **Rules**: concise, neutral, public-facing.
+- **TizWildin status**: ✅ / ⏳ / ❌ / 🛑 if relevant.
+```

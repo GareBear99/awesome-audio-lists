@@ -1,8 +1,10 @@
 # Awesome Audio Lists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated hub of audio, music-production, music-platform, sample-pack, plugin-directory, DSP, JUCE, Web Audio, and independent-artist discovery lists — built to track where to submit plugins, sample packs, music tools, releases, and producer resources.
+![GitHub stars](https://img.shields.io/github/stars/GareBear99/awesome-audio-lists?style=social) ![GitHub forks](https://img.shields.io/github/forks/GareBear99/awesome-audio-lists?style=social) ![Last commit](https://img.shields.io/github/last-commit/GareBear99/awesome-audio-lists) ![License](https://img.shields.io/github/license/GareBear99/awesome-audio-lists)
 
-Maintained by [GareBear99](https://github.com/GareBear99) · Canonical hub for the TizWildin / GareBearProductionz audio-network graph: [FreeEQ8](https://github.com/GareBear99/FreeEQ8), [FreeVox8](https://github.com/GareBear99/FreeVox8), the [TizWildin plugin ecosystem](https://github.com/GareBear99/TizWildinEntertainmentHUB), TizWildin sample packs, independent music releases, and satellite awesome lists.
+> A curated hub of audio, music-production, music-platform, sample-pack, plugin-directory, Python scientific audio, DSP, JUCE, Web Audio, and independent-artist discovery lists — built to track where to submit plugins, sample packs, music tools, releases, and producer resources.
+
+Maintained by [GareBear99](https://github.com/GareBear99) · Canonical hub for the TizWildin / GareBearProductionz audio-network graph: [FreeEQ8](https://github.com/GareBear99/FreeEQ8), [FreeVox8](https://github.com/GareBear99/FreeVox8), [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science), the [TizWildin plugin ecosystem](https://github.com/GareBear99/TizWildinEntertainmentHUB), TizWildin sample packs, independent music releases, and satellite awesome lists.
 
 ## Contents
 - [Hub network](#hub-network)
@@ -13,6 +15,7 @@ Maintained by [GareBear99](https://github.com/GareBear99) · Canonical hub for t
 - [Music platforms / artist distribution / creator storefronts](#music-platforms--artist-distribution--creator-storefronts)
 - [Web Audio lists](#web-audio-lists)
 - [Audio DSP / engineering lists](#audio-dsp--engineering-lists)
+- [Python scientific audio / MIR lists](#python-scientific-audio--mir-lists)
 - [Sample-pack directories](#sample-pack-directories)
 - [Non-GitHub plugin directories](#non-github-plugin-directories)
 - [Submission playbook](#submission-playbook)
@@ -27,12 +30,14 @@ This repo is the **root discovery hub** for the GareBear99 / TizWildin audio eco
 
 - [GareBear99/awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free audio plugins, open-source DSP tools, JUCE/plugin-development resources, and plugin ecosystem discovery.
 - [GareBear99/awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) — Music platforms for streaming, distribution, beat selling, sample packs, sync licensing, promotion, analytics, creator storefronts, visualization, and independent musician tools.
+- [GareBear99/awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science) — Python scientific audio, DSP, MIR, machine-learning audio, datasets, notebooks, plugin analysis, and creator-audio automation resources.
 
 ### Canonical product/project anchors
 
 - [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — free JUCE equalizer and primary plugin-discovery proof point.
 - [FreeVox8](https://github.com/GareBear99/FreeVox8) — spectral vocoder / ghost-resynthesis plugin line.
 - [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB) — plugin ecosystem launcher and public project hub.
+- [TizWildinEntertainmentHUB public .io router](https://garebear99.github.io/TizWildinEntertainmentHUB/) — public route for plugins, packs, lists, deconstructed loops, visualizers, and release-surface routing.
 - [Voxel Audio](https://github.com/GareBear99/Voxel_Audio) — RGB waveform visualizer and audio export tool.
 - [TizWildin Release Vault](https://github.com/GareBear99/TizWildin-Release-Vault/) — official release catalog and proof surface.
 
@@ -42,9 +47,10 @@ Recommended link graph:
 awesome-audio-lists
 ├─ awesome-audio-plugins-dev
 ├─ awesome-music-platforms
+├─ awesome-python-audio-science
 ├─ FreeEQ8 / FreeVox8 / plugin repos
 ├─ Voxel Audio / visualizer tools
-└─ TizWildin music, sample packs, release vault, and SoundCloud/YouTube surfaces
+└─ TizWildin music, deconstructed loops, sample packs, .io router, release vault, and SoundCloud/YouTube surfaces
 ```
 
 ## How to use this list
@@ -52,6 +58,7 @@ awesome-audio-lists
 2. Read the **Rules** column — many lists forbid paid or self-promoted products.
 3. Follow the **Submission format** column exactly (PR / Issue / web form / email).
 4. Track your submission status locally; this list records real-world acceptance signals for FreeEQ8, FreeVox8, TizWildin packs, and the wider TizWildin / GareBearProductionz ecosystem.
+5. Use the Python audio science / MIR satellite list when the target is research, dataset, notebook, ML-audio, analysis, or scientific-DSP tooling rather than a finished plugin or artist platform.
 
 ---
 
@@ -174,6 +181,23 @@ Curated Web Audio packages and resources.
 - **FreeEQ8 status**: ⏳ [Issue #83](https://github.com/notthetup/awesome-webaudio/issues/83) pending since 2026-03-27 — tenuous fit (FreeEQ8 is not a Web Audio plugin).
 
 ---
+
+
+## Python scientific audio / MIR lists
+
+### [GareBear99/awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science) ★ own list
+Curated public list of Python scientific audio, audio DSP, music information retrieval, machine-learning audio, datasets, notebooks, plugin analysis, and creator-audio automation. This is the canonical Python/scientific-audio satellite for the GareBear99 / TizWildin ecosystem.
+- **Scope**: Python audio analysis, DSP/transforms, MIR, speech/voice/alignment, source separation, loudness/perceptual audio, realtime audio/MIDI, datasets, notebooks, visualization, plugin testing, and creator-routing automation.
+- **Submission format**: PR against `README.md` or issue using the platform/resource template.
+- **Rules**: useful public resources only; neutral descriptions; no fake growth services, spam, malware, or unsupported claims.
+- **TizWildin status**: ✅ canonical satellite for Python audio science, deconstructed-loop analysis, IO/router automation, Voxel Audio support tooling, and future FreeEQ8/FreeVox8 testing notebooks.
+
+### [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) ★ 1.7k+
+Established curated list of Python packages and resources for scientific audio research, audio analysis, MIR, source separation, deep learning, realtime apps, datasets, and audio plugin wrappers.
+- **Scope**: scientific Python audio packages and research tooling.
+- **Submission format**: PR.
+- **Rules**: curated scientific-audio relevance; keep descriptions concise and useful.
+- **TizWildin status**: Reference/inspiration lane only. Use `awesome-python-audio-science` as the ecosystem-controlled satellite and submit only broadly useful Python tooling upstream where appropriate.
 
 ## Audio DSP / engineering lists
 
@@ -344,13 +368,16 @@ Contributions welcome — if you know of a curated audio list that accepts plugi
 >
 > 🎧 **SoundCloud:** [TizWildin on SoundCloud](https://soundcloud.com/tizwildin) — original music, remixes, VIP mixes, experimental drops, and underground releases.
 >
+> 🎁 [Free Packs & Samples](#tizwildin-free-sample-packs) — jump to free packs & samples
 >
 > 🎵 [Awesome Audio Plugins Dev](https://github.com/GareBear99/awesome-audio-plugins-dev) — free audio plugins, DSP, and plugin-development discovery  
 > 🌐 [Awesome Music Platforms](https://github.com/GareBear99/awesome-music-platforms) — streaming, distribution, storefronts, sync, promotion, analytics, and music-platform discovery
+> 🧪 [Awesome Python Audio Science](https://github.com/GareBear99/awesome-python-audio-science) — Python scientific audio, MIR, DSP, datasets, notebooks, and creator-audio automation
 >
 > ▶️ **[YouTube](https://www.youtube.com/@gfgfvmhj)** — music, visuals, demos, and releases  
 > 🌊 **[Voxel Audio](https://github.com/GareBear99/Voxel_Audio)** — free RGB waveform visualizer and audio export tool  
 > 📘 **[Facebook Page](https://www.facebook.com/profile.php?id=61564485196765)** — TizWildin / GareBearProductionz updates and Media  
 > 🗂️ **[Release Vault](https://garebear99.github.io/TizWildin-Release-Vault/)** — official monetized releases, distributed tracks, and catalog proof
+> 🔀 **[TizWildin .io Router](https://garebear99.github.io/TizWildinEntertainmentHUB/)** — public router for plugins, lists, deconstructed loops, sample packs, visualizers, and release surfaces
 
 > 🗂️ **Release Vault Repo:** [https://github.com/GareBear99/TizWildin-Release-Vault](https://github.com/GareBear99/TizWildin-Release-Vault)

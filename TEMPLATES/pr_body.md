@@ -1,23 +1,23 @@
 ## Summary
 
-Adds or updates a curated audio/music list, plugin directory, sample-pack directory, or music-platform discovery resource.
+Adds or updates an audio list/platform/resource entry.
+
+## Category
+
+- [ ] Audio plugin list
+- [ ] JUCE/framework list
+- [ ] Music production list
+- [ ] Music platform / storefront
+- [ ] Python scientific audio / MIR
+- [ ] Web Audio
+- [ ] Audio DSP / engineering
+- [ ] Sample-pack directory
+- [ ] Non-GitHub plugin directory
 
 ## Checklist
 
-- [ ] Entry is useful to audio developers, producers, artists, sample-pack creators, or music-platform researchers.
-- [ ] Entry is placed in the correct section.
-- [ ] Description is short and neutral.
-- [ ] Link is public and working.
-- [ ] Submission rules/status are included when relevant.
-- [ ] No spam, fake growth service, dead link, adult-only site, or unrelated directory.
-
-## Entry format
-
-```markdown
-### [Name](https://example.com/)
-Short neutral description.
-- **Scope**: what it accepts or covers.
-- **Submission format**: PR / Issue / web form / email / account upload.
-- **Rules**: important restrictions.
-- **Status**: ✅ / ⏳ / ❌ / 🛑 if relevant.
-```
+- [ ] Entry is public and useful to audio creators, producers, researchers, or plugin developers.
+- [ ] Description is short, neutral, and non-spammy.
+- [ ] Link is correct.
+- [ ] Category placement is correct.
+- [ ] Existing formatting is preserved.

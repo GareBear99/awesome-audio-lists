@@ -16,6 +16,15 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 - `✅` = accepted / live
 - `🛑` = submitted and rejected
 
+
+## Satellite list status
+
+| Satellite | Role | Status | Next action |
+|---|---|---|---|
+| [awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) | Plugin/dev discovery | ✅ live | Keep synced with FreeEQ8/FreeVox8 releases |
+| [awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) | Artist platforms/distribution/selling | ✅ live | Continue backlink submissions and weekly updates |
+| [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science) | Python scientific audio, MIR, DSP, ML-audio, datasets, notebooks, creator automation | ✅ live | Add to hub README, link from `.io` router, and submit useful neutral additions upstream where appropriate |
+
 ## Packs
 
 | Pack | BPM | Genre | Format | Content |
