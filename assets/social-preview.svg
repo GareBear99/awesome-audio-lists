@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Awesome Audio Lists">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b12"/>
+      <stop offset="0.5" stop-color="#10172a"/>
+      <stop offset="1" stop-color="#050509"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#62e7ff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#62e7ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="1000" cy="160" r="360" fill="url(#glow)"/>
+  <g fill="none" stroke="#62e7ff" stroke-opacity="0.3">
+    <path d="M80 450 C240 320 340 550 500 390 S780 260 940 390 1120 500 1210 360" stroke-width="4"/>
+    <path d="M80 510 C260 380 350 610 530 455 S810 330 980 460 1130 560 1210 430" stroke-width="2"/>
+  </g>
+  <text x="80" y="175" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800">Awesome Audio Lists</text>
+  <text x="84" y="245" fill="#bdefff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">Plugin directories · DSP lists · sample packs · music platforms</text>
+  <text x="84" y="320" fill="#d9e7ff" font-family="Inter, Arial, sans-serif" font-size="28">Root discovery hub for the GareBear99 / TizWildin audio ecosystem.</text>
+  <text x="84" y="390" fill="#83f7c1" font-family="Inter, Arial, sans-serif" font-size="26">awesome-audio-plugins-dev  •  awesome-music-platforms  •  FreeEQ8  •  FreeVox8</text>
+</svg>

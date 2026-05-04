@@ -1,9 +1,9 @@
 # Contributing
 
-Thanks for considering a contribution! This repo tracks curated audio lists and their submission rules. Contributions are welcome in three forms:
+Thanks for considering a contribution! This repo tracks curated audio lists, plugin directories, sample-pack directories, music-platform resources, and their submission rules. Contributions are welcome in three forms:
 
-## 1. Add a new list
-Open a PR that adds a new list entry to the appropriate section of `README.md`. Use the existing format:
+## 1. Add a new list or platform resource
+Open a PR that adds a new list, directory, or music-platform resource entry to the appropriate section of `README.md`. Use the existing format:
 
 ```markdown
 ### [owner/repo-name](https://github.com/owner/repo-name) ★ <stars>
@@ -22,12 +22,12 @@ Wrong star count, dead link, outdated rule — just open a PR.
 
 ## Rules for this list
 - Alphabetical order within each category.
-- Lists must be **curated** (a maintained `awesome-*` README or equivalent). No personal blog rolls or ad-hoc forum posts.
+- Lists should be **curated** where possible (a maintained `awesome-*` README or equivalent). Platform directories may be included if they are established, useful public submission/discovery surfaces for audio creators, producers, artists, or plugin developers. No personal blog rolls or ad-hoc forum posts.
 - List must be actively maintained (commits in last 2 years).
 - No adult content.
 
-## Adding a non-GitHub directory
-Acceptable in the "Non-GitHub plugin directories" and "Non-GitHub sample directories" sections if they're widely-used producer-facing platforms (KVR Audio, Splice, freesound.org, etc.). Private communities and paywalled sites are out of scope.
+## Adding a non-GitHub directory or music platform
+Acceptable in the "Non-GitHub plugin directories", "Sample-pack directories", and "Music platforms / artist distribution / creator storefronts" sections if they are widely-used, public, producer-facing or artist-facing platforms (KVR Audio, Splice, freesound.org, Bandcamp, BeatStars, SubmitHub, etc.). Private communities, fake growth services, scam promotion platforms, and paywalled-only sites are out of scope.
 
 ## License
 By contributing you agree your additions are released under CC0 1.0.

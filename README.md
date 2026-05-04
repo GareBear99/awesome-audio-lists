@@ -1,14 +1,16 @@
-# awesome-audio-lists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Audio Lists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of curated audio lists — where to submit your audio plugins, sample packs, synthesis tools, and DSP projects. Tracks each list's scope, submission format, contribution rules, and the real-world acceptance status of my own submissions.
+> A curated hub of audio, music-production, music-platform, sample-pack, plugin-directory, DSP, JUCE, Web Audio, and independent-artist discovery lists — built to track where to submit plugins, sample packs, music tools, releases, and producer resources.
 
-Maintained by [GareBear99](https://github.com/GareBear99) · Used to track where [FreeEQ8](https://github.com/GareBear99/FreeEQ8), the [TizWildin plugin ecosystem](https://github.com/GareBear99/TizWildinEntertainmentHUB), and the TizWildin sample packs are listed.
+Maintained by [GareBear99](https://github.com/GareBear99) · Canonical hub for the TizWildin / GareBearProductionz audio-network graph: [FreeEQ8](https://github.com/GareBear99/FreeEQ8), [FreeVox8](https://github.com/GareBear99/FreeVox8), the [TizWildin plugin ecosystem](https://github.com/GareBear99/TizWildinEntertainmentHUB), TizWildin sample packs, independent music releases, and satellite awesome lists.
 
 ## Contents
+- [Hub network](#hub-network)
 - [How to use this list](#how-to-use-this-list)
 - [Audio plugin lists (GitHub, general)](#audio-plugin-lists-github-general)
 - [JUCE / framework-specific lists](#juce--framework-specific-lists)
 - [Music production lists](#music-production-lists)
+- [Music platforms / artist distribution / creator storefronts](#music-platforms--artist-distribution--creator-storefronts)
 - [Web Audio lists](#web-audio-lists)
 - [Audio DSP / engineering lists](#audio-dsp--engineering-lists)
 - [Sample-pack directories](#sample-pack-directories)
@@ -17,11 +19,39 @@ Maintained by [GareBear99](https://github.com/GareBear99) · Used to track where
 - [Legend](#legend)
 - [Contributing](#contributing)
 
+## Hub network
+
+This repo is the **root discovery hub** for the GareBear99 / TizWildin audio ecosystem. Keep repo names lowercase for URL consistency, and use readable capitalized titles inside READMEs.
+
+### Canonical satellite lists
+
+- [GareBear99/awesome-audio-plugins-dev](https://github.com/GareBear99/awesome-audio-plugins-dev) — Free audio plugins, open-source DSP tools, JUCE/plugin-development resources, and plugin ecosystem discovery.
+- [GareBear99/awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) — Music platforms for streaming, distribution, beat selling, sample packs, sync licensing, promotion, analytics, creator storefronts, visualization, and independent musician tools.
+
+### Canonical product/project anchors
+
+- [FreeEQ8](https://github.com/GareBear99/FreeEQ8) — free JUCE equalizer and primary plugin-discovery proof point.
+- [FreeVox8](https://github.com/GareBear99/FreeVox8) — spectral vocoder / ghost-resynthesis plugin line.
+- [TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB) — plugin ecosystem launcher and public project hub.
+- [Voxel Audio](https://github.com/GareBear99/Voxel_Audio) — RGB waveform visualizer and audio export tool.
+- [TizWildin Release Vault](https://github.com/GareBear99/TizWildin-Release-Vault/) — official release catalog and proof surface.
+
+Recommended link graph:
+
+```text
+awesome-audio-lists
+├─ awesome-audio-plugins-dev
+├─ awesome-music-platforms
+├─ FreeEQ8 / FreeVox8 / plugin repos
+├─ Voxel Audio / visualizer tools
+└─ TizWildin music, sample packs, release vault, and SoundCloud/YouTube surfaces
+```
+
 ## How to use this list
-1. Find a list that matches your plugin's scope and format (plugin / framework / DSP / sample pack).
+1. Find a list or platform directory that matches your project scope and format: plugin, framework, DSP, sample pack, music release, beat pack, visualizer, or creator platform.
 2. Read the **Rules** column — many lists forbid paid or self-promoted products.
 3. Follow the **Submission format** column exactly (PR / Issue / web form / email).
-4. Track your submission status locally; this list records the maintainer's decision on a public product (FreeEQ8 / TizWildin) as a real-world signal.
+4. Track your submission status locally; this list records real-world acceptance signals for FreeEQ8, FreeVox8, TizWildin packs, and the wider TizWildin / GareBearProductionz ecosystem.
 
 ---
 
@@ -118,6 +148,19 @@ Sites with MIDI files on the Web.
 - **Scope**: MIDI file archives, generators, and related tools.
 - **Submission format**: PR.
 - **Applicable to**: TizWildin packs that ship MIDI content (Free Dark Piano Sound Kit, Phonk Producer Toolkit).
+
+---
+
+## Music platforms / artist distribution / creator storefronts
+
+### [GareBear99/awesome-music-platforms](https://github.com/GareBear99/awesome-music-platforms) ★ own list
+Curated list of music platforms for streaming, distribution, beat selling, sample packs, sync licensing, artist promotion, analytics, creator storefronts, music visualization, and independent musician tools.
+- **Scope**: artist platforms, streaming services, distributors, beat stores, sample-pack marketplaces, sync/licensing platforms, music-promotion tools, analytics, creator storefronts, communities, and open-source music resources.
+- **Submission format**: PR against `README.md` or issue using the platform template.
+- **Rules**: useful public platforms only; short neutral descriptions; no spam, scams, dead links, adult-only sites, or fake growth services.
+- **TizWildin status**: ✅ canonical satellite list for music-platform discovery and release-surface mapping.
+
+Use this satellite list when the target is not only an audio-plugin list, but a broader music release, music marketing, sample-pack sales, beat-store, creator-storefront, sync/licensing, or analytics platform.
 
 ---
 
@@ -303,7 +346,8 @@ Contributions welcome — if you know of a curated audio list that accepts plugi
 >
 > 🎁 [Free Packs & Samples](#tizwildin-free-sample-packs) — jump to free packs & samples
 >
-> 🎵 [Awesome Audio](https://github.com/GareBear99/awesome-audio-plugins-dev) — My (FREE) Awesome Audio Dev List
+> 🎵 [Awesome Audio Plugins Dev](https://github.com/GareBear99/awesome-audio-plugins-dev) — free audio plugins, DSP, and plugin-development discovery  
+> 🌐 [Awesome Music Platforms](https://github.com/GareBear99/awesome-music-platforms) — streaming, distribution, storefronts, sync, promotion, analytics, and music-platform discovery
 >
 > ▶️ **[YouTube](https://www.youtube.com/@gfgfvmhj)** — music, visuals, demos, and releases  
 > 🌊 **[Voxel Audio](https://github.com/GareBear99/Voxel_Audio)** — free RGB waveform visualizer and audio export tool  
