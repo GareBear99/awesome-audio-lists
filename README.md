@@ -368,8 +368,6 @@ Contributions welcome — if you know of a curated audio list that accepts plugi
 >
 > 🎧 **SoundCloud:** [TizWildin on SoundCloud](https://soundcloud.com/tizwildin) — original music, remixes, VIP mixes, experimental drops, and underground releases.
 >
-> 🎁 [Free Packs & Samples](#tizwildin-free-sample-packs) — jump to free packs & samples
->
 > 🎵 [Awesome Audio Plugins Dev](https://github.com/GareBear99/awesome-audio-plugins-dev) — free audio plugins, DSP, and plugin-development discovery  
 > 🌐 [Awesome Music Platforms](https://github.com/GareBear99/awesome-music-platforms) — streaming, distribution, storefronts, sync, promotion, analytics, and music-platform discovery
 > 🧪 [Awesome Python Audio Science](https://github.com/GareBear99/awesome-python-audio-science) — Python scientific audio, MIR, DSP, datasets, notebooks, and creator-audio automation
