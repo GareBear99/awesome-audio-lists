@@ -85,6 +85,36 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 | Production Music Live | pending |
 | Hive Sound | pending |
 
+## Editorial reviews & promotional outreach
+
+Use this table for plugin-review, press, promotional, and creator-story outreach. Keep statuses truthful and include the date submitted.
+
+| Outlet | Contact / route | Best use | FreeEQ8 status | FreeVox8 status | Next action |
+|---|---|---|---|---|---|
+| Sound On Sound | Official Write for SOS/contact routes | Professional studio review / technical assessment | submitted 2026-05-05 | pending | Wait 7–10 business days before one concise follow-up |
+| KVR Audio | `contactus@kvraudio.com` or developer submission flow | Plugin database listing + release news | pending | pending | Submit through product/developer flow first; email only if needed |
+| MusicTech editorial | `editors@musictech.com` | News tip / indie developer story | pending | pending | Send short solo-dev pitch |
+| MusicTech / NME press office | `press@nmenetworks.com` | Formal press-release route | pending | pending | Use only for polished release announcement |
+| Bedroom Producers Blog | Contact form | Free plugin / freeware coverage | pending | pending | Submit concise free-plugin pitch |
+| Sonicstate | Contact form | Music-tech news / independent developer story | pending | pending | Submit short ecosystem story |
+| DJ Mag | Pitch-guide route | Artist/developer profile angle | pending | pending | Use only if tying plugin work to TizWildin creator story |
+| Rekkerd | Contact/news route | Plugin release news / freeware roundup | pending | pending | Send after download/release page is clean |
+| JUCE Forum Showcase | Forum post | Developer feedback + JUCE credibility | pending | pending | Post build notes, screenshots, repo link |
+| Gearspace | Appropriate software/plugin forum | User feedback / credibility | pending | pending | Post only once after stable binaries are obvious |
+| Reddit: r/audioengineering | Allowed weekly/showcase thread | Engineering feedback | pending | pending | Check rules first |
+| Reddit: r/musicproduction | Allowed weekly/showcase thread | Producer discovery | pending | pending | Check rules first |
+| Reddit: r/edmproduction | Weekly resource/feedback thread | EDM producer discovery | pending | pending | Check rules first |
+| Hacker News / Show HN | Show HN post | Open-source engineering visibility | pending | pending | Use only after repo/release/install path is polished |
+
+### Outreach pacing
+
+1. Submit/update **KVR** first because it creates a durable plugin database signal.
+2. Send **BPB / Rekkerd** next for freeware visibility.
+3. Send **MusicTech / Sonicstate** with the indie developer ecosystem angle.
+4. Use **forums/Reddit** only after the public download path, screenshots, and known limitations are easy to find.
+5. Follow up once after 7–10 business days, then stop.
+
+
 ## Submission order (recommended pacing)
 
 To avoid the cross-platform-spam signal that gets accounts flagged:
