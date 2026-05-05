@@ -87,24 +87,26 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 
 ## Editorial reviews & promotional outreach
 
-Use this table for plugin-review, press, promotional, and creator-story outreach. Keep statuses truthful and include the date submitted.
+Use this table for **audio plugin review, free VST/AU plugin promotion, music-tech press, freeware roundup, and creator-story outreach**. Keep statuses truthful and include the date submitted. This tracker is intentionally SEO-aware, but every pitch should still read human and non-spammy.
 
-| Outlet | Contact / route | Best use | FreeEQ8 status | FreeVox8 status | Next action |
-|---|---|---|---|---|---|
-| Sound On Sound | Official Write for SOS/contact routes | Professional studio review / technical assessment | submitted 2026-05-05 | pending | Wait 7–10 business days before one concise follow-up |
-| KVR Audio | `contactus@kvraudio.com` or developer submission flow | Plugin database listing + release news | pending | pending | Submit through product/developer flow first; email only if needed |
-| MusicTech editorial | `editors@musictech.com` | News tip / indie developer story | pending | pending | Send short solo-dev pitch |
-| MusicTech / NME press office | `press@nmenetworks.com` | Formal press-release route | pending | pending | Use only for polished release announcement |
-| Bedroom Producers Blog | Contact form | Free plugin / freeware coverage | pending | pending | Submit concise free-plugin pitch |
-| Sonicstate | Contact form | Music-tech news / independent developer story | pending | pending | Submit short ecosystem story |
-| DJ Mag | Pitch-guide route | Artist/developer profile angle | pending | pending | Use only if tying plugin work to TizWildin creator story |
-| Rekkerd | Contact/news route | Plugin release news / freeware roundup | pending | pending | Send after download/release page is clean |
-| JUCE Forum Showcase | Forum post | Developer feedback + JUCE credibility | pending | pending | Post build notes, screenshots, repo link |
-| Gearspace | Appropriate software/plugin forum | User feedback / credibility | pending | pending | Post only once after stable binaries are obvious |
-| Reddit: r/audioengineering | Allowed weekly/showcase thread | Engineering feedback | pending | pending | Check rules first |
-| Reddit: r/musicproduction | Allowed weekly/showcase thread | Producer discovery | pending | pending | Check rules first |
-| Reddit: r/edmproduction | Weekly resource/feedback thread | EDM producer discovery | pending | pending | Check rules first |
-| Hacker News / Show HN | Show HN post | Open-source engineering visibility | pending | pending | Use only after repo/release/install path is polished |
+| Outlet | Contact / route | Search/SEO intent | Best use | FreeEQ8 status | FreeVox8 status | Next action |
+|---|---|---|---|---|---|---|
+| Sound On Sound | Official Write for SOS/contact routes | professional studio review, pro audio magazine | Professional studio review / technical assessment | submitted 2026-05-05 | pending | Wait 7–10 business days before one concise follow-up |
+| KVR Audio | `contactus@kvraudio.com` or developer submission flow | audio plugin database, VST plugin listing | Plugin database listing + release news | pending | pending | Submit through product/developer flow first; email only if needed |
+| MusicTech editorial | `editors@musictech.com` | music technology news, plugin release | News tip / indie developer story | pending | pending | Send short solo-dev pitch |
+| MusicTech / NME press office | `press@nmenetworks.com` | music-tech press release | Formal press-release route | pending | pending | Use only for polished release announcement |
+| Bedroom Producers Blog | Contact form | free VST plugin, freeware music software | Free plugin / freeware coverage | pending | pending | Submit concise free-plugin pitch |
+| Sonicstate | Contact form | music gear news, software instruments | Music-tech news / independent developer story | pending | pending | Submit short ecosystem story |
+| DJ Mag | Pitch-guide route | electronic music producer story | Artist/developer profile angle | pending | pending | Use only if tying plugin work to TizWildin creator story |
+| Rekkerd | Contact/news route | plugin news, freeware roundup | Plugin release news / freeware roundup | pending | pending | Send after download/release page is clean |
+| Production Expert | Contact/editorial route | pro-audio workflow, mix tutorial | Workflow article / plugin mention | pending | pending | Pitch practical EQ/vocoder workflow, not broad claims |
+| Ask.Audio | Contact/editorial route | music production tutorial, plugin tutorial | Tutorial / review / music tech article | pending | pending | Pair with quick-start workflow or mix example |
+| JUCE Forum Showcase | Forum post | JUCE plugin, C++ audio development | Developer feedback + JUCE credibility | pending | pending | Post build notes, screenshots, repo link |
+| Gearspace | Appropriate software/plugin forum | pro audio forum, plugin feedback | User feedback / credibility | pending | pending | Post only once after stable binaries are obvious |
+| Reddit: r/audioengineering | Allowed weekly/showcase thread | audio engineering feedback | Engineering feedback | pending | pending | Check rules first |
+| Reddit: r/musicproduction | Allowed weekly/showcase thread | music production tools, free plugins | Producer discovery | pending | pending | Check rules first |
+| Reddit: r/edmproduction | Weekly resource/feedback thread | EDM production plugin, producer resources | EDM producer discovery | pending | pending | Check rules first |
+| Hacker News / Show HN | Show HN post | open-source audio, developer tool | Open-source engineering visibility | pending | pending | Use only after repo/release/install path is polished |
 
 ### Outreach pacing
 

@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/GareBear99/awesome-audio-lists?style=social) ![GitHub forks](https://img.shields.io/github/forks/GareBear99/awesome-audio-lists?style=social) ![Last commit](https://img.shields.io/github/last-commit/GareBear99/awesome-audio-lists) ![License](https://img.shields.io/github/license/GareBear99/awesome-audio-lists)
 
-> A curated hub of audio, music-production, music-platform, sample-pack, plugin-directory, Python scientific audio, DSP, JUCE, Web Audio, and independent-artist discovery lists — built to track where to submit plugins, sample packs, music tools, releases, and producer resources.
+> A curated discovery and submission hub for audio plugin directories, free VST/AU plugin promotion, JUCE and DSP resources, music-production awesome lists, sample-pack directories, music-platform submissions, editorial review targets, press outlets, and independent-artist release surfaces.
 
 Maintained by [GareBear99](https://github.com/GareBear99) · Canonical hub for the TizWildin / GareBearProductionz audio-network graph: [FreeEQ8](https://github.com/GareBear99/FreeEQ8), [FreeVox8](https://github.com/GareBear99/FreeVox8), [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science), the [TizWildin plugin ecosystem](https://github.com/GareBear99/TizWildinEntertainmentHUB), TizWildin sample packs, independent music releases, and satellite awesome lists.
 
@@ -329,42 +329,62 @@ Claude Code skill marketplace — publish a skill that describes how to use your
 
 ## Editorial reviews & promotional outlets
 
-> Use this section for **review requests, news tips, press releases, creator-story pitches, and promotional coverage**. These are not normal directory submissions: keep each pitch short, truthful, and tailored to the outlet. Do not claim certification, awards, or studio adoption unless the proof is public.
+> Use this section for **audio plugin review requests, free VST/AU plugin promotion, music-tech news tips, press releases, creator-story pitches, and professional studio review outreach**. These are not normal directory submissions: keep each pitch short, truthful, and tailored to the outlet. Do not claim certification, awards, chart placement, or studio adoption unless the proof is public.
 
-### Priority audio-plugin review/news targets
+This section helps independent audio developers, JUCE plugin builders, DSP researchers, sample-pack creators, and producer-developers find legitimate places to submit open-source audio plugins, free music-production tools, soundware, and creator-tech stories.
 
-| Outlet | Contact / submission path | Best angle | Fit for FreeEQ8 / FreeVox8 | Notes |
-|---|---|---|---|---|
-| [Sound On Sound](https://www.soundonsound.com/information/write-sound-on-sound) | Use the listed editorial/contact routes on their Write for SOS page | Professional studio review / technical assessment | High | Best for serious review credibility. Pitch as an honest open-source EQ / vocoder evaluation, not hype. |
-| [KVR Audio submissions](https://www.kvraudio.com/submissions) | `contactus@kvraudio.com` or developer/product submission flow | Plugin database listing + release news | Very high | KVR prioritizes plugin/host news and product database submissions. Use account-based submission when possible. |
-| [MusicTech](https://musictech.com/contact/) | `editors@musictech.com` | News tip / independent developer story | High | Use for solo producer-developer angle, open-source audio tools, and ecosystem story. |
-| [MusicTech / NME Networks press office](https://nmenetworks.com/brands/musictech) | `press@nmenetworks.com` | Formal press-release route | Medium | Use if sending a polished release announcement, not casual follow-up. |
-| [Bedroom Producers Blog](https://bedroomproducersblog.com/contact/) | Contact form | Free plugin / freeware producer tool coverage | Very high | Strong fit for free VST/AU plugins, free sample packs, and producer-facing utility releases. |
-| [Sonicstate](https://sonicstate.com/about/contact.cfm) | Contact form | Music-tech news / independent developer story | Medium | Better for the wider story than a basic listing. Keep concise. |
-| [DJ Mag pitch guide](https://djmag.com/information/how-pitch-dj-mag) | Follow the pitch-guide instructions | Artist/developer profile or creator-tech story | Medium-low | Use only when the angle includes TizWildin, releases, creator tools, and the indie-builder story. |
-| [Production Expert](https://www.production-expert.com/) | Contact / editorial route | Studio workflow / plugin review | Medium | Pitch only after stable builds, screenshots, and clean download instructions are public. |
-| [Ask.Audio / macProVideo](https://ask.audio/) | Contact / editorial route | Tutorial/review/editorial feature | Medium | Best when paired with a walkthrough: “building and using a free EQ in real mixes.” |
-| [Rekkerd](https://rekkerd.org/) | Contact / news submission route | Plugin release news / freebie roundup | High | Good for quick plugin-release visibility and freeware posts. |
-| [Gearspace](https://gearspace.com/) | Forum post in appropriate software/plugin area | Community visibility / user feedback | Medium | Do not spam. Post once with clear download, license, screenshots, and known limitations. |
-| [JUCE Forum Showcase](https://forum.juce.com/) | Showcase/category post | Developer-facing proof + feedback | High | Strong credibility signal for JUCE-built tools. Include architecture notes and repo link. |
-| [Reddit: r/audioengineering](https://www.reddit.com/r/audioengineering/) | Appropriate weekly/showcase thread if allowed | Engineering feedback | Medium | Read rules first. Avoid drive-by self-promo. |
-| [Reddit: r/musicproduction](https://www.reddit.com/r/musicproduction/) | Appropriate weekly/showcase thread if allowed | Producer adoption / free tool discovery | Medium | Lead with free/open-source usefulness. |
-| [Reddit: r/edmproduction](https://www.reddit.com/r/edmproduction/) | Weekly feedback/resource thread if allowed | EDM producer utility | Medium | Best for FreeEQ8, FreeVox8, sample packs, and visualizer tools. |
-| [Hacker News — Show HN](https://news.ycombinator.com/show) | Show HN post | Open-source engineering story | Medium | Use only when README, releases, screenshots, and install path are extremely clean. |
+### Priority audio-plugin review, press, and promotion targets
+
+| Outlet | Contact / submission path | SEO/search intent | Best angle | Fit | Notes |
+|---|---|---|---|---|---|
+| [Sound On Sound](https://www.soundonsound.com/information/write-sound-on-sound) | Use the listed editorial/contact routes on their Write for SOS page | pro audio review, studio review, audio engineering magazine | Professional studio review / technical assessment | High | Best for serious credibility. Pitch FreeEQ8 as an honest open-source EQ evaluation, not hype. |
+| [KVR Audio submissions](https://www.kvraudio.com/submissions) | `contactus@kvraudio.com` or developer/product submission flow | audio plugin database, VST plugin listing, plugin news | Plugin database listing + release news | Very high | Durable discovery signal for free VST/AU plugins. Use account-based product submission when possible. |
+| [MusicTech](https://musictech.com/contact/) | `editors@musictech.com` | music technology news, producer tools, plugin release | News tip / independent developer story | High | Use the solo producer-developer angle: open-source plugins, JUCE development, and creator ecosystem. |
+| [MusicTech / NME Networks press office](https://nmenetworks.com/brands/musictech) | `press@nmenetworks.com` | music-tech press release, product launch | Formal press release | Medium | Use only for polished release announcements with clean download links and screenshots. |
+| [Bedroom Producers Blog](https://bedroomproducersblog.com/contact/) | Contact form | free VST plugin, freeware plugin, free music software | Free plugin / freeware news | Very high | Strong fit for FreeEQ8, FreeVox8, sample packs, and producer utilities. Keep the pitch concise. |
+| [Sonicstate](https://sonicstate.com/about/contact.cfm) | Contact form | music gear news, music technology, software instruments | Music-tech news / creator story | Medium | Better for the indie developer ecosystem story than a simple EQ listing. |
+| [DJ Mag pitch guide](https://djmag.com/information/how-pitch-dj-mag) | Follow the pitch-guide instructions | electronic music producer story, artist technology | Artist + technology story | Low–medium | Use only if connecting FreeEQ8/FreeVox8 to TizWildin releases and independent production workflow. |
+| [Production Expert](https://www.production-expert.com/) | Contact / editorial route | pro tools workflow, audio production tips, plugin review | Pro-audio workflow article / plugin mention | Medium | Pitch practical mix scenarios and workflow value. Avoid broad claims. |
+| [Ask.Audio / macProVideo](https://ask.audio/) | Contact / editorial route | audio tutorial, music production tutorial, plugin tutorial | Tutorial / review / music tech article | Medium | Best with a quick-start tutorial or mix example. |
+| [Rekkerd](https://rekkerd.org/) | Contact / news submission route | plugin news, free plugin news, soundware news | Plugin news / freeware roundup | High | Good fit for free plugin updates, sample packs, soundware, and release announcements. |
+| [Gearspace](https://gearspace.com/) | Forum post in appropriate software/plugin area | pro audio forum, plugin feedback, studio community | Community visibility / user feedback | Medium | Do not spam. Post once with download, license, screenshots, supported formats, and limitations. |
+| [JUCE Forum Showcase](https://forum.juce.com/) | Showcase/category post | JUCE plugin, open-source audio plugin, C++ audio development | Developer-facing proof + feedback | High | Strong credibility signal for JUCE-built tools. Include architecture notes and repo link. |
+| [Reddit: r/audioengineering](https://www.reddit.com/r/audioengineering/) | Appropriate weekly/showcase thread if allowed | audio engineering feedback, free plugin feedback | Engineering feedback | Medium | Read rules first. Avoid drive-by self-promo. |
+| [Reddit: r/musicproduction](https://www.reddit.com/r/musicproduction/) | Appropriate weekly/showcase thread if allowed | music production tools, free plugins | Producer adoption / free tool discovery | Medium | Lead with usefulness, open-source status, and screenshots. |
+| [Reddit: r/edmproduction](https://www.reddit.com/r/edmproduction/) | Weekly feedback/resource thread if allowed | EDM production plugin, free EQ plugin, producer resources | EDM producer utility | Medium | Best for FreeEQ8, FreeVox8, sample packs, visualizer tools, and production workflows. |
+| [Hacker News — Show HN](https://news.ycombinator.com/show) | Show HN post | Show HN open-source audio, developer tool, local software | Open-source engineering story | Medium | Use only when README, releases, screenshots, install path, and limitations are extremely clean. |
+
+### Outreach keyword map
+
+Use these phrases naturally in descriptions, titles, and submission notes. Do **not** keyword-stuff.
+
+- free open-source audio plugin
+- free 8-band parametric EQ plugin
+- open-source JUCE plugin
+- free VST3 EQ / AU EQ plugin
+- audio plugin review submission
+- music production plugin news
+- independent audio developer
+- producer-built music software
+- low-overhead EQ plugin
+- DSP audio plugin project
+- FreeEQ8 by Gary Doman / GareBear99 / neo-VECTR
 
 ### Promotional pitch rules
 
 - **One outlet, one tailored pitch.** Do not send the same long email everywhere.
-- **Lead with the outlet’s audience:** studio credibility for SOS, free plugin utility for BPB, developer story for MusicTech, product listing for KVR.
+- **Lead with the outlet’s audience:** studio credibility for Sound On Sound, freeware utility for Bedroom Producers Blog, developer story for MusicTech, product listing for KVR.
+- **Use a clear subject line.** Include the product name, format/category, and why it is relevant.
 - **Attach nothing on first contact unless requested.** Link the GitHub repo, public hub, screenshots, and release/download page.
-- **Keep claims evidence-based:** free/open-source, JUCE-based, low-overhead goal, public roadmap, public GitHub history, producer-built workflow.
-- **Avoid unverified claims:** “best EQ,” “industry standard,” “certified,” “used by professionals,” or “production proven” unless independently documented.
-- **Follow up once after 7–10 business days.** If no reply, move on and keep building public proof.
+- **State honest status.** Say open-source, in development, release candidate, stable build, tested build, or public source only when true.
+- **Include proof links.** Repo, release page, screenshots, documentation hub, SoundCloud/artist context, and GitHub profile are enough for first contact.
+- **Track every send in `SUBMISSION_TRACKER.md`.** Record date, target, contact route, status, follow-up date, and outcome.
 
 ### Reusable subject lines
 
 ```text
 FreeEQ8 — Free open-source 8-band EQ plugin for review/news consideration
+FreeEQ8 — Free 8-band parametric EQ plugin built with JUCE
 FreeEQ8 — Open-source JUCE EQ plugin from solo producer/developer
 FreeVox8 — Open-source spectral vocoder / ghost-resynthesis plugin for review consideration
 Independent producer/developer building open-source audio plugins
@@ -373,12 +393,18 @@ Independent producer/developer building open-source audio plugins
 ### FreeEQ8 short pitch block
 
 ```text
-FreeEQ8 is a free, open-source 8-band parametric EQ plugin built by Gary Doman / GareBear99 under neo-VECTR. It is designed around precise EQ control, transparent public development, low-overhead performance goals, and a producer-built workflow connected to the TizWildin audio ecosystem.
+FreeEQ8 is a free, open-source 8-band parametric EQ plugin built by Gary Doman / GareBear99 under neo-VECTR. It is designed for precise corrective and creative EQ work, transparent public development, low-overhead performance goals, and a producer-built workflow connected to the TizWildin audio ecosystem.
 
 GitHub: https://github.com/GareBear99/FreeEQ8
 Hub: https://garebear99.github.io/TizWildinEntertainmentHUB/
 GitHub profile: https://github.com/GareBear99
 SoundCloud: https://soundcloud.com/tizwildin
+```
+
+### FreeEQ8 one-line directory listing
+
+```text
+[FreeEQ8](https://github.com/GareBear99/FreeEQ8) — Free open-source 8-band parametric EQ plugin built with JUCE for corrective, surgical, and creative music-production workflows.
 ```
 
 ---
