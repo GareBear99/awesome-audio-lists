@@ -460,7 +460,7 @@ Contributions welcome — if you know of a curated audio list that accepts plugi
 > ▶️ **[YouTube](https://www.youtube.com/@gfgfvmhj)** — music, visuals, demos, and releases  
 > 🌊 **[Voxel Audio](https://github.com/GareBear99/Voxel_Audio)** — free RGB waveform visualizer and audio export tool  
 > 📘 **[Facebook Page](https://www.facebook.com/profile.php?id=61564485196765)** — TizWildin / GareBearProductionz updates and Media  
-> 🗂️ **[Release Vault](https://garebear99.github.io/TizWildin-Release-Vault/)** — official monetized releases, distributed tracks, and catalog proof
+> 🗂️ **[Release Vault](https://ffm.bio/no4km87)** — official monetized releases, distributed tracks, and catalog proof
 > 🔀 **[TizWildin .io Router](https://garebear99.github.io/TizWildinEntertainmentHUB/)** — public router for plugins, lists, deconstructed loops, sample packs, visualizers, and release surfaces
 
 > 🗂️ **Release Vault Repo:** [https://github.com/GareBear99/TizWildin-Release-Vault](https://github.com/GareBear99/TizWildin-Release-Vault)
