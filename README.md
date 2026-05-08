@@ -4,7 +4,7 @@
 
 > A curated discovery and submission hub for audio plugin directories, free VST/AU plugin promotion, JUCE and DSP resources, music-production awesome lists, sample-pack directories, music-platform submissions, editorial review targets, press outlets, and independent-artist release surfaces.
 
-Maintained by [GareBear99](https://github.com/GareBear99) · Canonical hub for the TizWildin / GareBearProductionz audio-network graph: [FreeEQ8](https://github.com/GareBear99/FreeEQ8), [FreeVox8](https://github.com/GareBear99/FreeVox8), [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science), the [TizWildin plugin ecosystem](https://github.com/GareBear99/TizWildinEntertainmentHUB), TizWildin sample packs, independent music releases, and satellite awesome lists.
+Maintained by [GareBear99](https://github.com/GareBear99) · Canonical hub for the TizWildin / GareBearProductionz audio-network graph: [FreeEQ8](https://github.com/GareBear99/FreeEQ8), [FreeVox8](https://github.com/GareBear99/FreeVox8), [awesome-python-audio-science](https://github.com/GareBear99/awesome-python-audio-science), the [TizWildin plugin ecosystem](https://github.com/GareBear99/TizWildinEntertainmentHUB), TizWildin sample packs, independent music releases, and satellite awesome lists. [Public credibility SEO tracker](https://github.com/GareBear99/public-credibility-seo-tracker)
 
 ## Contents
 - [Hub network](#hub-network)
