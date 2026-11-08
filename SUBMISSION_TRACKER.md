@@ -4,8 +4,8 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 
 ## Automation state (as of 2026-04-23)
 
-- ✅ **All 11 pack READMEs patched** with pricing + hub-link block. Script: [`scripts/update_pack_pricing.py`](scripts/update_pack_pricing.py). Idempotent.
-- ✅ **All 11 packs have `v1.0.0` GitHub releases** with auto-generated source ZIPs. Every pack's `/releases/latest` now resolves, and `/archive/refs/heads/main.zip` is the always-current free-download URL used in the pricing block.
+- ✅ **11 of 12 pack READMEs patched** with pricing + hub-link block. Script: [`scripts/update_pack_pricing.py`](scripts/update_pack_pricing.py). Idempotent. **Free-Drum-Producer-Kit** (12th pack, added 2026-11-08) is not yet patched — no paid-platform price is on record for it, so its script entry is commented out pending a price.
+- ✅ **11 of 12 packs have `v1.0.0` GitHub releases** with auto-generated source ZIPs. Every pack's `/releases/latest` now resolves, and `/archive/refs/heads/main.zip` is the always-current free-download URL used in the pricing block. **Free-Drum-Producer-Kit has no release yet** (verified 2026-11-08) — needs a `v1.0.0` release (pack-repo work, not this repo).
 - ❌ **`awesome-midi-sources` skipped** — list is scoped to *sites that host MIDI archives* (VGMusic, FreeMidi, Lakh dataset). Plugin-supplement packs bundling MIDI don't fit the pattern. Forcing a submission would be a rejection risk.
 - ⏳ **Non-GitHub outreach requires account creation** — signup pages opened in browser: Bandcamp, Looperman, freesound.org, Sample Focus, Splice (creator program), KVR Audio, Plugins4Free, Bedroom Producers Blog.
 
@@ -94,7 +94,7 @@ Use this table for **audio plugin review, free VST/AU plugin promotion, music-te
 
 | Outlet | Contact / route | Search/SEO intent | Best use | FreeEQ8 status | FreeVox8 status | Next action |
 |---|---|---|---|---|---|---|
-| Sound On Sound | Official Write for SOS/contact routes | professional studio review, pro audio magazine | Professional studio review / technical assessment | submitted 2026-05-05 | pending | Wait 7–10 business days before one concise follow-up |
+| Sound On Sound | Official Write for SOS/contact routes | professional studio review, pro audio magazine | Professional studio review / technical assessment | submitted 2026-05-05 | pending | Follow-up ~6 months overdue — awaiting Gary's call (Decision 3) |
 | KVR Audio | `contactus@kvraudio.com` or developer submission flow | audio plugin database, VST plugin listing | Plugin database listing + release news | pending | pending | Submit through product/developer flow first; email only if needed |
 | MusicTech editorial | `editors@musictech.com` | music technology news, plugin release | News tip / indie developer story | pending | pending | Send short solo-dev pitch |
 | MusicTech / NME press office | `press@nmenetworks.com` | music-tech press release | Formal press-release route | pending | pending | Use only for polished release announcement |
@@ -124,7 +124,7 @@ Use this table for **audio plugin review, free VST/AU plugin promotion, music-te
 
 To avoid the cross-platform-spam signal that gets accounts flagged:
 
-1. **Week 1** — Bandcamp (own-channel, no gatekeeper): upload all 11 packs as free/pay-what-you-want releases.
+1. **Week 1** — Bandcamp (own-channel, no gatekeeper): upload all 12 packs as free/pay-what-you-want releases.
 2. **Week 2** — Looperman + Sample Focus: 1–2 packs per day.
 3. **Week 3** — freesound.org: split packs into individual samples, tag + upload.
 4. **Week 4** — Reddit genre subs: 1 pack per week per subreddit in the appropriate weekly thread.

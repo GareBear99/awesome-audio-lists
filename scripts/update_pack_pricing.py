@@ -37,6 +37,8 @@ PACKS = {
     "Free-Riser-Producer-Kit":         ("Free Riser Producer Kit",      1),
     "Phonk_Producer_Toolkit":          ("Phonk Producer Toolkit",       1),
     "Free-Future-Bass-Producer-Kit":   ("Free Future Bass Producer Kit", 1),
+    # "Free-Drum-Producer-Kit":        ("Free Drum Producer Kit", 1),  # TODO (2026-11-08): no paid-platform price on record
+    #   (no itch listing found) — set the $ price and uncomment, then re-run to patch its README.
 }
 
 START = "<!-- tizwildin-pricing:start -->"
