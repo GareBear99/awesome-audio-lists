@@ -86,9 +86,9 @@ Curated VST plugins reference.
 - **Scope**: time-tested VST plugins you actually use.
 - **Submission format**: PR.
 - **Rules** (`contributing.md`): concise non-marketing description, alphabetical within category, `(Free)` or 🆓 label for free plugins, no copying random products from oversaturated VST marketplaces.
-- **FreeEQ8 status**: ⏳ [PR #18](https://github.com/dreikanter/awesome-vst/pull/18) pending.
+- **FreeEQ8 status**: ⏳ [PR #18](https://github.com/dreikanter/awesome-vst/pull/18) pending — still open as of 2026-11-08 (last activity 2026-05-12).
 
-### [matthewamend/awesome-audio-plugins](https://github.com/matthewamend/awesome-audio-plugins) ★ 1
+### [matthewamend/awesome-audio-plugins](https://github.com/matthewamend/awesome-audio-plugins) ★ 1 — repo deleted (404 as of 2026-11-08)
 Audio-plugin-related tools and resources.
 - **Scope**: plugin APIs (CLAP / VST / AU / AAX / LV2), libraries, dev tools, online communities, more lists.
 - **Submission format**: PR.
@@ -104,14 +104,14 @@ Oli Larkin's curated list of music DSP and audio programming resources.
 - **Scope**: frameworks, libraries, textbooks, open-source plugin projects (*exemplary* and *miscellaneous*), hardware, tools, talks.
 - **Submission format**: PR.
 - **Rules**: first-person informal style, personally-recommended only.
-- **FreeEQ8 status**: ⏳ [PR #11](https://github.com/olilarkin/awesome-musicdsp/pull/11) pending — under *Exemplary open source audio plug-in projects* with an emphasis on the Milestone-A RT-safety pass.
+- **FreeEQ8 status**: ❌ closed 2026-07-31 — withdrawn by GareBear99: CONTRIBUTING.md says the list is personally curated and not looking for collaborators.
 
 ### [sudara/awesome-juce](https://github.com/sudara/awesome-juce) ★ 1.2k
 Sudara's JUCE modules / templates / plugins.
 - **Scope**: JUCE modules, templates, plugins.
 - **Submission format**: PR (issue templates also exist).
 - **Rules**: awesome-lint; JUCE-related only.
-- **FreeEQ8 status**: ⏳ [PR #61](https://github.com/sudara/awesome-juce/pull/61) pending since 2026-02-26.
+- **FreeEQ8 status**: ❌ closed 2026-05-12 — maintainer (sudara) invited a new PR that follows the instructions with a shorter description; resubmission not yet done.
 
 ### [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) ★ 1.3k
 Audio DSP + plugin development resources.
@@ -138,7 +138,7 @@ Awesome Music Projects.
 - **Scope**: broad — music software, libraries, tools, resources.
 - **Submission format**: Issue with a specific format (see [contributing](https://github.com/noteflakes/awesome-music#contributing)) — body must be the exact line to insert.
 - **Rules**: awesome-lint, alphabetical.
-- **FreeEQ8 status**: ⏳ [Issue #101](https://github.com/noteflakes/awesome-music/issues/101) pending since 2026-04-15.
+- **FreeEQ8 status**: ⏳ Issue #101 closed 2026-05-27 (moved to PR) — [PR #109](https://github.com/noteflakes/awesome-music/pull/109) still open as of 2026-11-08 (last activity 2026-07-31).
 
 ### [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) ★ 1.4k
 Software, services, and resources to create and distribute music.
@@ -181,7 +181,7 @@ Curated Web Audio packages and resources.
 - **Scope**: Web Audio API, browser-based audio tools.
 - **Submission format**: Issue → maintainer adds.
 - **Rules**: browser/JS-focused; desktop plugins accepted only if they have a web-audio angle.
-- **FreeEQ8 status**: ⏳ [Issue #83](https://github.com/notthetup/awesome-webaudio/issues/83) pending since 2026-03-27 — tenuous fit (FreeEQ8 is not a Web Audio plugin).
+- **FreeEQ8 status**: ❌ closed 2026-05-19 — maintainer asked for a PR instead of an issue; fit is tenuous (FreeEQ8 is not a Web Audio plugin).
 
 ---
 
@@ -308,7 +308,7 @@ Audio over IP + AES67.
 > These are where actual producers browse for plugins. Higher reach than most GitHub awesome lists.
 
 ### [KVR Audio](https://www.kvraudio.com/)
-The largest plugin database. Submission at [`kvraudio.com/addplugin.php`](https://www.kvraudio.com/addplugin.php) or through the KVR submissions workflow. Requires account for product listings. Commercial + free plugins accepted. Editorial review.
+The largest plugin database. Submission via [KVR Developer Access](https://www.kvraudio.com/devs) (free developer account — add products, submit news) or through the KVR submissions workflow. Requires account for product listings. Commercial + free plugins accepted. Editorial review.
 
 ### [Plugins4Free](https://www.plugins4free.com/)
 Free-plugins-only directory. Submission via [contact form](https://www.plugins4free.com/contact/).

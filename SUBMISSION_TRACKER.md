@@ -37,9 +37,10 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 | [Free-Violin-Synth-Sample-Kit](https://github.com/GareBear99/Free-Violin-Synth-Sample-Kit) | — | Physical model violin | WAV one-shots | Rendered from Instrudio |
 | [Free-Dark-Piano-Sound-Kit](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | varies | Dark cinematic piano | WAV + MIDI | 88 notes + loops + MIDI |
 | [Free-808-Producer-Kit](https://github.com/GareBear99/Free-808-Producer-Kit) | — | 808 bass | WAV one-shots | 94 samples, every chromatic key |
-| [Free-Riser-Producer-Kit](https://github.com/GareBear99/Free-Riser-Producer-Kit) | — | FX | WAV | 115 risers + 63 downlifters |
+| [Free-Riser-Producer-Kit](https://github.com/GareBear99/Free-Riser-Producer-Kit) | — | FX | WAV | 186 risers and downlifters |
 | [Phonk-Producer-Toolkit](https://github.com/GareBear99/Phonk_Producer_Toolkit) | varies | Drift phonk | WAV + MIDI | 808s, cowbells, drums, MIDI |
 | [Free-Future-Bass-Producer-Kit](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | varies | Future bass | WAV | Loops, fills, drums, bass, synths |
+| [Free-Drum-Producer-Kit](https://github.com/GareBear99/Free-Drum-Producer-Kit) | — | Drum one-shots | WAV one-shots | 136 drum one-shots |
 
 ## Directory fit matrix
 
@@ -60,6 +61,7 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 | Free-Riser | — | — |
 | Phonk-Toolkit | — | pending |
 | Free-Future-Bass | — | — |
+| Free-Drum | — | — |
 
 ### Non-GitHub platforms
 
@@ -76,6 +78,7 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 | Free-Riser | pending | pending | pending | pending | pending | r/edmproduction |
 | Phonk-Toolkit | pending | pending | pending | pending | pending | r/phonk |
 | Free-Future-Bass | pending | pending | pending | pending | pending | r/edmproduction |
+| Free-Drum | pending | pending | pending | pending | pending | — |
 
 ### Editorial press (one-shot pitches)
 
