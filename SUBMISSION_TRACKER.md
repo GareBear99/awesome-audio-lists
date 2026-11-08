@@ -40,7 +40,7 @@ Matrix of every TizWildin sample pack × every realistic directory. Status per c
 | [Free-Riser-Producer-Kit](https://github.com/GareBear99/Free-Riser-Producer-Kit) | — | FX | WAV | 186 risers and downlifters |
 | [Phonk-Producer-Toolkit](https://github.com/GareBear99/Phonk_Producer_Toolkit) | varies | Drift phonk | WAV + MIDI | 808s, cowbells, drums, MIDI |
 | [Free-Future-Bass-Producer-Kit](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | varies | Future bass | WAV | Loops, fills, drums, bass, synths |
-| [Free-Drum-Producer-Kit](https://github.com/GareBear99/Free-Drum-Producer-Kit) | — | Drum one-shots | WAV one-shots | 136 drum one-shots |
+| [Free-Drum-Producer-Kit](https://github.com/GareBear99/Free-Drum-Producer-Kit) | — | Drum one-shots | WAV (one-shots + loops) | 136 WAVs (114 one-shots + 22 loops) |
 
 ## Directory fit matrix
 
